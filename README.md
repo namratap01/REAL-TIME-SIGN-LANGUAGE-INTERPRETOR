@@ -35,4 +35,7 @@ We have submitted 2 notebooks:
 ![_](https://cdn.discordapp.com/attachments/745135237167841430/836924383574097920/unknown.png)
 
 The following window should open on running the GUI code :
-![_](https://cdn.discordapp.com/attachments/745135237167841430/836931080204451850/Screenshot_137.png)
+<div style="text-align:center">
+ <img src="https://cdn.discordapp.com/attachments/745135237167841430/836931080204451850/Screenshot_137.png" width=700>
+</div>
+
