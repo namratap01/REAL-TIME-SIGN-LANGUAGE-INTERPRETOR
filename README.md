@@ -8,11 +8,12 @@
  --------
 
 ```
-Branch     : CSE <br>
-Subject    : Data Mining (CSB352) <br>
-Instructor : Dr. Chandra Prakash <br>
+Branch     : CSE 
+Subject    : Data Mining (CSB352) 
+Instructor : Dr. Chandra Prakash 
 ```
 We have submitted 2 notebooks:
+
 1. Sign_Language_Recognition_Group11.ipynb
 
 > To run this file, follow the given steps:
@@ -30,6 +31,8 @@ We have submitted 2 notebooks:
 >  - Step 2 : Run the GUI_Integration file inside the folder on jupyter notebook.
 >  - Step 3 : Make predictions :)
 >  - Step 4 : (Optional) The default model selected is the vgg16 with fine tuning. If you wish to try out other models, you could uncomment the desired model name in the 4th code block under the object_detection() function, a screenshot for the same is given below
-    
 
-![alt text](https://cdn.discordapp.com/attachments/745135237167841430/836924383574097920/unknown.png)
+![_](https://cdn.discordapp.com/attachments/745135237167841430/836924383574097920/unknown.png)
+
+The following window should open on running the GUI code :
+![_](https://cdn.discordapp.com/attachments/745135237167841430/836931080204451850/Screenshot_137.png)
