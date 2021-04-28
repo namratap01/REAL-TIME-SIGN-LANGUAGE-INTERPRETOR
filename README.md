@@ -1,12 +1,11 @@
 # REAL-TIME-SIGN-LANGUAGE-INTERPRETOR
 
 This project is submitted by :
- Name | Roll. No. 
- ---------------
+ Name  | Roll. No. 
+ ------|---------
  Namrata Prasad | (181210032)
- ---------------------------
  Ritika Singh   | (181210042)
- ------------------------------
+
 
 Branch     : CSE
 Subject    : Data Mining (CSB352)
