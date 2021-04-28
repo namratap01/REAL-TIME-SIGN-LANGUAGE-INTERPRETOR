@@ -22,10 +22,10 @@ To run this file, follow the given steps:
 2. GUI_Integrtion.ipynb
 
   To run our GUI in your system, follow the given steps:
-    Step 1 : Unzip the ASL_RECOGNITION_GUI.zip. It has all the models and configuration files required.
-    Step 2 : Run the GUI_Integration file inside the folder on jupyter notebook.
-    Step 3 : Make predictions :)
-    Step 4 : (Optional) The default model selected is the vgg16 with fine tuning. If you wish to try out other models, you could uncomment the desired model name in the 4th code block under the object_detection() function, a screenshot for the same is given below
+    - Step 1 : Unzip the ASL_RECOGNITION_GUI.zip. It has all the models and configuration files required.
+    - Step 2 : Run the GUI_Integration file inside the folder on jupyter notebook.
+    - Step 3 : Make predictions :)
+    - Step 4 : (Optional) The default model selected is the vgg16 with fine tuning. If you wish to try out other models, you could uncomment the desired model name in the 4th code block under the object_detection() function, a screenshot for the same is given below
     
 
 ![alt text](https://cdn.discordapp.com/attachments/745135237167841430/836924383574097920/unknown.png)
