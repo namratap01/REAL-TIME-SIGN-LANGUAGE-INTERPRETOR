@@ -22,6 +22,7 @@ To run this file, follow the given steps:
 2. GUI_Integrtion.ipynb
 
   To run our GUI in your system, follow the given steps:
+  
     - Step 1 : Unzip the ASL_RECOGNITION_GUI.zip. It has all the models and configuration files required.
     - Step 2 : Run the GUI_Integration file inside the folder on jupyter notebook.
     - Step 3 : Make predictions :)
