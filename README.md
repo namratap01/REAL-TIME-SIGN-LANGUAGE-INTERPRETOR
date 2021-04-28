@@ -1,15 +1,16 @@
 # REAL-TIME-SIGN-LANGUAGE-INTERPRETOR
 
-This project is submitted by :
- Name  | Roll. No. 
- ------|---------
- Namrata Prasad | (181210032)
- Ritika Singh   | (181210042)
+<h4>This project is submitted by :
+
+ Namrata Prasad  (181210032)<br>
+ Ritika Singh    (181210042)</h4><br>
+ 
+ --------
 
 
-Branch     : CSE
-Subject    : Data Mining (CSB352)
-Instructor : Dr. Chandra Prakash
+Branch     : CSE <br>
+Subject    : Data Mining (CSB352) <br>
+Instructor : Dr. Chandra Prakash <br>
 
 We have submitted 2 notebooks:
 1. Sign_Language_Recognition_Group11.ipynb
